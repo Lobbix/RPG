@@ -1,0 +1,10 @@
+:spell
+blackorb 1 5 ./sprites/cmbt_an/blackorb.png 19
+ice 1 7 ./sprites/cmbt_an/ice.png 12
+wind 1 8 ./sprites/cmbt_an/wind.png 15
+:sword
+hit 10 1 ./sprites/cmbt_an/hit.png 4
+massive 5 20 ./sprites/cmbt_an/slash.png 5
+slashes 5 1 ./sprites/cmbt_an/slash2.png 18
+destructor 8 100 ./sprites/cmbt_an/slash2.png 18
+:escape
